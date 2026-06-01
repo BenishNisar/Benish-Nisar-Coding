@@ -37,14 +37,14 @@
 }
 
 a {
-  color: #3e425c;
+  color: #22cd6f;
   -webkit-transition: 0.3s;
   transition: 0.3s;
   display: inline-block;
 }
 
 a:hover {
-  color: #243b6b;
+  color: #22cd6f;
 }
 
 a:focus,
@@ -117,7 +117,7 @@ h2 {
   font-size: 56px;
   letter-spacing: -2px;
   line-height: 74px;
-  color: #070c24;
+  color: #22cd6f;
 }
 
 h3 {

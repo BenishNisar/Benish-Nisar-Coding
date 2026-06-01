@@ -282,7 +282,7 @@
       .circleProgress({
         value: 0.6,
         fill: {
-          color: "#243B6B",
+          color: "#F50204",
         },
         emptyFill: "#ffffff",
       })
@@ -296,7 +296,7 @@
       .circleProgress({
         value: 0.7,
         fill: {
-          color: "#243B6B",
+          color: "#F50204",
         },
         emptyFill: "#ffffff",
       })
@@ -310,7 +310,7 @@
       .circleProgress({
         value: 0.3,
         fill: {
-          color: "#243B6B",
+          color: "#F50204",
         },
         emptyFill: "#ffffff",
       })
@@ -324,7 +324,7 @@
       .circleProgress({
         value: 0.9,
         fill: {
-          color: "#243B6B",
+          color: "#F50204",
         },
         emptyFill: "#ffffff",
       })
